@@ -58,15 +58,16 @@ The project focuses on:
 
 ---
 
-# 🚀 Development Roadmap
+# 🚀 Developments/Features Roadmap
 
-## 🎨 Phase 1 - UI Design
+## 🎨 UI Design
 
-- [ ] Create Header
-- [ ] Create Navigation Bar
-- [ ] Create Homepage Banner
-- [ ] Create Footer
-- [ ] Design Homepage
+- [x] Draw Planned Use Case and ERD
+- [x] Create Header
+- [x] Create Navigation Bar
+- [x] Create Homepage Banner
+- [x] Create Footer
+- [x] Design Homepage
 - [ ] Design Login Page
 - [ ] Design Register Page
 - [ ] Design Product Listing Page
@@ -79,9 +80,9 @@ The project focuses on:
 
 ---
 
-## 🗄️ Phase 2 - Database Design
+## 🗄️Database Design
 
-- [ ] Users Table
+- [x] Users Table
 - [ ] Categories Table
 - [ ] Brands Table
 - [ ] Products Table
@@ -93,7 +94,7 @@ The project focuses on:
 
 ---
 
-## 👤 Phase 3 - User Features
+## 👤 User Features
 
 ### Authentication
 
@@ -129,7 +130,7 @@ The project focuses on:
 
 ---
 
-## 🛠️ Phase 4 - Admin Features
+## 🛠️ Admin Features
 
 ### Dashboard
 
